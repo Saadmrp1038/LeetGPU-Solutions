@@ -21,4 +21,3 @@ Topics include vector operations, matrix computations, sorting algorithms, machi
 
 Currently focusing on CUDA implementations.
 
-Visit [LeetGPU](https://leetgpu.com/) for the full problem set.
